@@ -1,0 +1,4 @@
+python python_subtitle_adjuster.py subtitle.srt shift_after_this_HH:mm:ss delta_in_ms
+
+Example:
+python python_subtitle_adjuster.py subtitle.srt 00:00:00 100
